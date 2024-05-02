@@ -8,4 +8,5 @@ The system employs real-time data from light sensors to dynamically adjust stree
 
 By implementing this Automatic Street Light Control System, cities can reduce energy consumption, lower operational costs, and contribute to a safer urban environment.
 
-Project Setup:
+
+
