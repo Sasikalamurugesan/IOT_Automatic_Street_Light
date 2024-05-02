@@ -11,6 +11,9 @@ Project Setup:
 
 The system employs real-time data from light sensors to dynamically adjust street light brightness according to environmental conditions. During daylight, street lights dim or turn off to conserve energy. As darkness falls, the system activates street lights to provide adequate illumination for pedestrians and vehicles.
 
+![Uploading image.png…]()
+
+
 By implementing this Automatic Street Light Control System, cities can reduce energy consumption, lower operational costs, and contribute to a safer urban environment.
 
 
